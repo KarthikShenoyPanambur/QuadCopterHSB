@@ -1,0 +1,7 @@
+Running: xsim.dir/TBOneBitComparator_behav/xsimk.exe -simmode gui -wdb TBOneBitComparator_behav.wdb -simrunnum 0 -socket 10377
+Design successfully loaded
+Design Loading Memory Usage: 17436 KB (Peak: 17436 KB)
+Design Loading CPU Usage: 421 ms
+Simulation completed
+Simulation Memory Usage: 17684 KB (Peak: 17684 KB)
+Simulation CPU Usage: 453 ms

@@ -1,0 +1,4 @@
+Running: xsim.dir/OneBitComparator_behav/xsimk.exe -simmode gui -wdb OneBitComparator_behav.wdb -simrunnum 0 -socket 10187
+Design successfully loaded
+Design Loading Memory Usage: 17720 KB (Peak: 17720 KB)
+Design Loading CPU Usage: 468 ms

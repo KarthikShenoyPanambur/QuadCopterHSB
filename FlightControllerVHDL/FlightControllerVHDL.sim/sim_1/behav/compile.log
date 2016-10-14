@@ -1,0 +1,5 @@
+Determining compilation order of HDL files.
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/YouTubeChannel/OneBitComparator.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity OneBitComparator
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Quadcopter/FlightControllerVHDL/FlightControllerVHDL.srcs/sim_1/new/TBOneBitComparator.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity TBOneBitComparator
